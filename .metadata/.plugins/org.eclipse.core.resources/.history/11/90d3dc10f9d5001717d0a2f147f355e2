@@ -1,0 +1,21 @@
+
+public class YourInitials 
+{
+	
+
+	public static void main(String[] args)
+	{
+		System.out.println("    FFFFFFFFFFF    ");
+		System.out.println("    F");
+		System.out.println("    F");
+		System.out.println("    F");
+		System.out.println("    FFFFFF");
+		System.out.println("    F");
+		System.out.println("    F");
+		System.out.println("    F");
+		System.out.println("    F");
+		System.out.println("    F");
+		
+	}
+	
+}
