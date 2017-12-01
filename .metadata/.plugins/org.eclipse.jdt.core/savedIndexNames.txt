@@ -4,7 +4,6 @@ INDEX VERSION 1.130+C:\Users\floresf5866\Desktop\ESC_Java_Thea\.metadata\.plugin
 349556966.index
 3398816544.index
 2963538765.index
-1789032928.index
 4237918392.index
 1106408436.index
 1217923329.index
