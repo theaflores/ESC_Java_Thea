@@ -12,9 +12,9 @@ public class UsingVariables
 		 E= 2.71828;
 		 CS= "Computer Science";
 		 
-		 System.out.println( "This is room #" + Room + ",");
-		 System.out.println( "e is close to" + E +",");
-		 System.out.println( "I'm learning about" + CS + ",");
+		 System.out.println( "This is room # " + Room + ",");
+		 System.out.println( "e is close to " + E +",");
+		 System.out.println( "I'm learning about " + CS + ",");
 		 
 				 
 		 

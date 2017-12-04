@@ -12,9 +12,9 @@ public class YourSchedule
 		SH= "Stage Hand Tech";
 		F= "Frazier";
 		
-		System.out.println("Per 1|"+ Eng +     "|"  + SW +  "|");
-		System.out.println("Per 2|"+ ECS +     "|"  + M +   "|");
-		System.out.println("Per 4|"+ SH +      "|"  + F +   "|");
+		System.out.println("Per 1|"+ Eng + "                |"  + SW +  "|");
+		System.out.println("Per 2|"+ ECS + "|"+ M +     "           |");
+		System.out.println("Per 4|"+ SH +  "           |"  + F +   "         |");
 		
 		
 		 
