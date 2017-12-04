@@ -20,7 +20,7 @@ public class AgeIn5
 		ageM = age -5;
 		
 		
- 		System.out.println( "so you're name is " + name + " , you are " + age + " Did you know that 5 years ago you were " + ageM + " and in 5 years you will be " + ageP );
+ 		System.out.println( "so you're name is " + name + " , you are " + age + " Did you know that 5 years ago you were" + ageM + " and in 5 years you will be" + ageP );
 		
  		keyboard.close();
 		
