@@ -20,6 +20,8 @@ public class MoreVariablesandPrinting
 		System.out.println( "Actually,that's not too heavy.");
 		System.out.println( "He's got" + myEyes + "eyes and" + myHair + "hair.");
 		System.out.println( "His teeth are unusually" + myTeeth +  "depending on the coffee.");
+		System.out.println( "If I add" + myAge + "," + myHeight + ", and " + myWeight):"
+				+ "I get " = (myAge + myHeight + myWeight) + ",");
 		       
 	}
 
