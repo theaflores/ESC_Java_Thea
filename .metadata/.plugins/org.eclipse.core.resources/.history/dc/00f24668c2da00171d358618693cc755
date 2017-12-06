@@ -23,12 +23,15 @@ public class Howoldspecifically
 		}
 		if ( ( age < 18) && (age >15) )
 		{
+			System.out.println("You can drive but not vote. " + name);
 		}
 		if ( ( age < 24) && (age >18) )
 		{
+			System.out.println("You can vote but not rent a car. " + name);
 		}
 		if ( age > 24)
 		{
+			System.out.println("You can pretty much do whatever you want. " + name);
 		}
 	
 	keyboard.close();
