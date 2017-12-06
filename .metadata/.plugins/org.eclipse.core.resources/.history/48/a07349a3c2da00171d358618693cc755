@@ -1,7 +1,8 @@
 
-import java.util.Scanner;
+	import java.util.Scanner;
 
-public class ALittleQuiz
+	public class ALittleQuiz
+
 	{
 		public static void main(String[] args)
 		{
