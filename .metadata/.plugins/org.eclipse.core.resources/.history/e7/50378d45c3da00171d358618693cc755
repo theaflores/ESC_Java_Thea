@@ -53,7 +53,7 @@ public class TwoQuestions
 				System.out.println("It's a paper clip!");
 			}
 		}
-		keyboard.close();
+		
 	}
 }
 
