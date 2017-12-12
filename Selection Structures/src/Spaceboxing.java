@@ -21,37 +21,37 @@ public class Spaceboxing
 		
 		wv = (weight * .78  );
 
-		if (planet.equals("Venus"));
+		if (planet.equals("Venus"))
 		{
 			System.out.println("Your weight is " + wv);
 		}
 		wm = (weight * .39  );
 
-		if (planet.equals("Mars"));
+		if (planet.equals("Mars"))
 		{
 			System.out.println("Your weight is " + wm);
 		}
 		wj = (weight * 2.65  );
 
-		if (planet.equals("Jupiter"));
+		if (planet.equals("Jupiter"))
 		{
 			System.out.println("Your weight is " + wj);
 		}
 		ws = (weight * 1.17  );
 
-		if (planet.equals("Saturn"));
+		if (planet.equals("Saturn"))
 		{
 			System.out.println("Your weight is " + ws);
 		}
 		wu = (weight *  1.05 );
 
-		if (planet.equals("Uranus"));
+		if (planet.equals("Uranus"))
 		{
 			System.out.println("Your weight is " + wu);
 		}
 		wn = (weight * 1.23  );
 
-		if (planet.equals("Neptune"));
+		if (planet.equals("Neptune"))
 		{
 			System.out.println("Your weight is " + wn);
 		}
