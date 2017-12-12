@@ -9,6 +9,7 @@ public class KeepGuessing
 		Random randomNumber = new Random();
 		  Scanner kbd = new Scanner(System.in);
 		  int computerValue = randomNumber.nextInt(10);
+		  int numberOfTries = 0;
 		  int success = 0;
 		  int guess = 0;
 
@@ -17,7 +18,7 @@ public class KeepGuessing
 		     {
 		        System.out.println("please enter an integer betwen 1 and 10: ");
 		        guess = kbd.nextInt();
-		        
+		        numberOfTries++;
 
 		           if (guess < 1 || guess > 100){
 		              System.out.println("Try again!");
