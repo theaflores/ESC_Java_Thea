@@ -1,22 +1,8 @@
-import java.util.Scanner;
 public class Primenumbers
       {
           public static void main( String[] args )
-          
           {
-        	  Scanner keyboard = new Scanner(System.in);
-        	  System.out.println("We are going to find some Primes");
-        	  System.out.println( " What range would you like them in?");
-        	  System.out.println( "Only positive integers 2 or greater");
-        	  
-        	  int num1,num2;
-        	  
-        	  System.out.print( "Low End: ");
-        	  	num1 = keyboard.nextInt();
-        	  System.out.print( "High End: ");
-        	  	num2 = keyboard.nextInt();
-        	  
-              for ( int n = num1; n <= num2; n++ )
+              for ( int n = 1; n <= 20; n++ )
               {
                   if (isPrime(n)) {
                       System.out.println( n + " <");
