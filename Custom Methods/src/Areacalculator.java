@@ -44,7 +44,7 @@
                       int r = stuff.nextInt();
                       System.out.println("The area is "+areaCircle(r));
                   }
-              }while (a!=5);
+              }while (a==5);
           }
           public static double areaCircle(int radius)
               {
